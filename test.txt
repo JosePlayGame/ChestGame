@@ -1,2 +1,2 @@
-hola esto es un test
+Esto es la frase c
 segunda frase del txt
