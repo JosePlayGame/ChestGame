@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Esto es la frase c
 segunda frase del txt
+=======
+hola esto es un test
+segunda frase del txt
+Esta es la cuarta frase
+>>>>>>> feature/cambio-asombroso
