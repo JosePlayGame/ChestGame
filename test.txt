@@ -4,5 +4,9 @@ segunda frase del txt
 =======
 hola esto es un test
 segunda frase del txt
+<<<<<<< HEAD
 Esta es la cuarta frase
 >>>>>>> feature/cambio-asombroso
+=======
+Esta es la cuarta frase
+>>>>>>> c6bfdc9 (Cuarta frase)
